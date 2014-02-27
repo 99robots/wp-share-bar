@@ -1,0 +1,108 @@
+/*
+-
+-	Gabfire Sharbar Plugin CSS
+-	Created by Kyle Benk
+-	7/13
+-
+*/
+
+.gsp_stick {
+	position: fixed !important;
+	top: 0px !important;
+}
+
+.gsp_title {
+	width: 300px !important;
+	text-align: center !important;
+}
+
+.gsp_center {
+	margin: 0 auto;
+}
+
+/* Horizontal Bar */
+
+.gabfire_sharebar_horizontal {
+	position: relative;
+	width: 50em;
+	background-color: white; 
+	z-index: 9999999999;
+	height: 5.5em;
+	border-top: .1em solid black;
+	border-bottom: .1em solid black;
+}
+
+.twitter_location_horizontal {
+	position: absolute;
+	left: 0em;
+}
+
+.facebook_location_horizontal {
+	position: absolute;
+	left: 7.5em;
+}
+
+.linkedin_location_horizontal {
+	position: absolute;
+	left: 15em;
+}
+
+.pinterest_location_horizontal {
+	position: absolute;
+	left: 22.5em;
+}
+
+.google_location_horizontal {
+	position: absolute;
+	left: 30em !important;
+}
+
+
+
+/* Vertical Bar */
+
+.gabfire_sharebar_vertical {
+	position: absolute;
+	border: .1em solid black;
+	height: 30em;
+	width: 5.5em;
+	background-color: white;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	z-index: 999999999 !important;
+}
+
+.twitter_location_vertical {
+	position: absolute;
+	top: 2em;
+	width:4em;
+	margin-left: .75em;
+}
+
+.facebook_location_vertical {
+	position: absolute;
+	top: 7em;
+	width:4em;
+	margin-left: .75em;
+}
+
+.google_location_vertical {
+	position: absolute;
+	top: 12em;
+	width:4em;
+	margin-left: .75em;
+}
+
+.linkedin_location_vertical {
+	position: absolute;
+	top: 17em;
+	width:4em;
+	margin-left: .75em;
+}
+
+.pinterest_location_vertical {
+	position: absolute;
+	top: 23em;
+	width:4em;
+	margin-left: .75em;
+}
