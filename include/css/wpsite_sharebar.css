@@ -1,28 +1,28 @@
 /*
 -
--	Gabfire Sharbar Plugin CSS
+-	WPsite Sharbar Plugin CSS
 -	Created by Kyle Benk
 -	7/13
 -
 */
 
-.gsp_stick {
+.wpsite_sharebar_stick {
 	position: fixed !important;
 	top: 0px !important;
 }
 
-.gsp_title {
+.wpsite_sharebar_title {
 	width: 300px !important;
 	text-align: center !important;
 }
 
-.gsp_center {
+.wpsite_sharebar_center {
 	margin: 0 auto;
 }
 
 /* Horizontal Bar */
 
-.gabfire_sharebar_horizontal {
+.wpsite_sharebar_horizontal {
 	position: relative;
 	width: 50em;
 	background-color: white; 
@@ -61,7 +61,7 @@
 
 /* Vertical Bar */
 
-.gabfire_sharebar_vertical {
+.wpsite_sharebar_vertical {
 	position: absolute;
 	border: .1em solid black;
 	height: 30em;

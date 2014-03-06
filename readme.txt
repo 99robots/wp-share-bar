@@ -1,23 +1,33 @@
-=== Gabfire Sharebar Plugin ===
+=== WPsite Sharebar ===
+Contributors:
+Donate link: 
+Tags:
+Requires at least: 1.0
+Tested up to: 1.0
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
+Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
 == Description ==
 
-Displays a social share bar above posts and floats as user scrolls.
-
-= Reference =
-
-
+This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
 
 == Installation ==
-Best is to install directly from WordPress. If manual installation is required, please make sure to put all of the plugin files in a folder named `gabfire-sharebar-plugin` (not two nested folders) in the plugin directory, then activate the plugin through the `Plugins` menu in WordPress.
 
-== Frequently Asked Questions == 
+1. Upload `share-bar` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
 
 
-== Credits ==
+
+== Screenshots ==
 
 
-= 1.0.0 =
-Initial release
+
+== Changelog ==
+
+= 1.0 =
+Initail release
